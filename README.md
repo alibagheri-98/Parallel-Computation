@@ -7,5 +7,5 @@ List of implemented algorithms:
 > 3. Merge sort algorithm
 
 ```
-Let me know if you have any way to improve them. [My Email](mailto:bagheri9877@gmail.com)
+Let me know if you have any way to improve them.
 ```
